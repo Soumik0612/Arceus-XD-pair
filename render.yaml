@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: dave
+    runtime: node
+    region: frankfurt
+    plan: free
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /
