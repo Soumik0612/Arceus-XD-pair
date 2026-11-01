@@ -2,7 +2,7 @@
     "name": "arceus-session",
     "description": "Web Session Generator",
     "logo": "https://files.brevo.host/f/ttp9ldus8g.jpg",
-    "repository": "https://github.com/gifteddevsmd/DAVE-PAIR",
+    "repository": "https://github.com/Soumik0612/Arceus-XD-pair",
     "keywords": ["Trashcore"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
