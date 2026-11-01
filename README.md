@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=JuneX%20Session&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20JuneX%20Ultra&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arceus%20Session&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20Arceus%20Ultra&descAlignY=58&descSize=16" width="100%" />
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Baileys](https://img.shields.io/badge/Baileys-WhiskeySockets-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -8,7 +8,7 @@
 ![Stars](https://img.shields.io/github/stars/Vinpink2/sessions?style=for-the-badge&color=2c5364)
 ![Forks](https://img.shields.io/github/forks/Vinpink2/sessions?style=for-the-badge&color=203a43)
 
-**Pair your WhatsApp number and get a session ID in seconds, ready to plug into [JuneX Ultra](https://github.com/Vinpink2/June-Ultra).**
+**Pair your WhatsApp number and get a session ID in seconds, ready to plug into [Arceus XD](https://github.com/Vinpink2/June-Ultra).**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 - 🔗 **Pairing code login**: no QR scanning, just enter your number and link
 - ⚡ **Fast session generation**: the session ID is sent straight to your WhatsApp chat
-- 🧩 **Made for JuneX Ultra**: the generated session works directly with the bot
+- 🧩 **Made for Arceus xd**: the generated session works directly with the bot
 - 🪶 **Lightweight**: minimal dependencies, runs on free-tier hosts
 - 🔒 **Private delivery**: your session is sent to you, not displayed publicly
 - 🚀 **One-click deploy** on Heroku, Render, and Koyeb
@@ -33,7 +33,7 @@
 4. On your phone, open **WhatsApp → Settings → Linked Devices → Link a Device → Link with phone number instead**.
 5. Enter the pairing code.
 6. Your **session ID** is sent to your own WhatsApp chat.
-7. Copy it and set it as `SESSION_ID` in your JuneX Ultra deployment.
+7. Copy it and set it as `SESSION_ID` in your Arceus XD deployment.
 
 > ⚠️ **Never share your session ID.** Anyone who has it can control your WhatsApp account.
 
@@ -41,11 +41,10 @@
 
 ## 🚀 Deploy
 
-Deploy your own session server in one click:
-
+Deploy your own session server in one create
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vinpink2/sessions)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Vinpink2/sessions)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Soumik0612/Arceus-XD-pair)
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Vinpink2/sessions&branch=main&name=sessions&builder=buildpack&run_command=npm%20start&ports=8000;http;/)
 
@@ -62,8 +61,8 @@ Deploy your own session server in one click:
 **Setup**
 
 ```bash
-git clone https://github.com/Vinpink2/sessions.git
-cd sessions
+git clone https://github.com/Soumik0612/Arceus-XD-pair.git
+cd Arceus-XD-pair
 npm install
 npm start
 ```
@@ -75,11 +74,11 @@ Then open `http://localhost:8000` in your browser.
 ## 🖥️ Run on a VPS (PM2)
 
 ```bash
-git clone https://github.com/Vinpink2/sessions.git
-cd sessions
+git clone https://github.com/Soumik0612/Arceus-XD-pair.git
+cd Arceus-XD-pair
 npm install
 npm install -g pm2
-pm2 start npm --name "junex-session" -- start
+pm2 start npm --name "Arceus-XD-pair" -- start
 pm2 save
 pm2 startup
 ```
