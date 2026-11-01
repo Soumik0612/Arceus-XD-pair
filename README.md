@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=JuneX%20Session&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20JuneX%20Ultra&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARCEUS XD%20Session&fontSize=48&fontColor=ffffff&\u003Cimg src=\"https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARCEUS XD%20Session&fontSize=48&fontColor=ffffff&\u003Cimg src=\"https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARCEUSXD%20Session&fontSize=48&fontColor=ffffff&\\u003Cimg src=\\\"https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ARCEUSXD%20Session&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20ARCEUS-XD%20Ultra&descAlignY=58&descSize=16\\\" width=\\\"100%\\\" />animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20ARCEUS-XD%20Ultra&descAlignY=58&descSize=16\" width=\"100%\" />animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20ARCEUS-XD%20Ultra&descAlignY=58&descSize=16\" width=\"100%\" />animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Session%20ID%20Generator%20for%20ARCEUS-XD%20Ultra&descAlignY=58&descSize=16" width="100%" />
 
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Baileys](https://img.shields.io/badge/Baileys-WhiskeySockets-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -8,7 +8,7 @@
 ![Stars](https://img.shields.io/github/stars/Vinpink2/sessions?style=for-the-badge&color=2c5364)
 ![Forks](https://img.shields.io/github/forks/Vinpink2/sessions?style=for-the-badge&color=203a43)
 
-**Pair your WhatsApp number and get a session ID in seconds, ready to plug into [JuneX Ultra](https://github.com/Vinpink2/June-Ultra).**
+**Pair your WhatsApp number and get a session ID in seconds, ready to plug into [Arceus XD](https://github.com/Vinpink2/June-Ultra).**
 
 </div>
 
@@ -18,7 +18,7 @@
 
 - 🔗 **Pairing code login**: no QR scanning, just enter your number and link
 - ⚡ **Fast session generation**: the session ID is sent straight to your WhatsApp chat
-- 🧩 **Made for JuneX Ultra**: the generated session works directly with the bot
+- 🧩 **Made for Arceus XD**: the generated session works directly with the bot
 - 🪶 **Lightweight**: minimal dependencies, runs on free-tier hosts
 - 🔒 **Private delivery**: your session is sent to you, not displayed publicly
 - 🚀 **One-click deploy** on Heroku, Render, and Koyeb
@@ -33,7 +33,7 @@
 4. On your phone, open **WhatsApp → Settings → Linked Devices → Link a Device → Link with phone number instead**.
 5. Enter the pairing code.
 6. Your **session ID** is sent to your own WhatsApp chat.
-7. Copy it and set it as `SESSION_ID` in your JuneX Ultra deployment.
+7. Copy it and set it as `SESSION_ID` in your Arceus XD deployment.
 
 > ⚠️ **Never share your session ID.** Anyone who has it can control your WhatsApp account.
 
